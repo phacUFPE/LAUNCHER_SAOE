@@ -1,0 +1,12 @@
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\bin\x64\Debug\Launcher.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\bin\x64\Debug\Launcher.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\bin\x64\Debug\Launcher.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\bin\x64\Debug\INIFileParser.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\bin\x64\Debug\INIFileParser.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher_Updater.Launcher.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher_Updater.FormSettings.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher_Updater.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher.csproj.GenerateResource.Cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_POKEWONDER\Launcher Updater\obj\x64\Debug\Launcher.pdb

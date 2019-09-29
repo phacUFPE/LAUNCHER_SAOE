@@ -1,0 +1,9 @@
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\bin\x86\Release\SAOE.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\bin\x86\Release\SAOE.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\bin\x86\Release\SAOE.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\obj\x86\Release\Launcher_Updater.Launcher.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\obj\x86\Release\Launcher_Updater.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\obj\x86\Release\Launcher.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\obj\x86\Release\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\obj\x86\Release\SAOE.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\Repositorios\LAUNCHER_ SAOE\Launcher Updater\obj\x86\Release\SAOE.pdb
